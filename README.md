@@ -24,4 +24,5 @@ I created a review ID table, a products table, a customers table and a vine tabl
 ![Screenshot 2023-05-07 at 8 41 38 PM](https://user-images.githubusercontent.com/108643565/236728831-c7fdaf4b-913d-47b0-b524-b9d7e5ef717f.png)
 
 Finally, I loaded the tables into RDS (Amazon Relational Database Service).
+
 ![Screenshot 2023-05-07 at 8 43 07 PM](https://user-images.githubusercontent.com/108643565/236728963-19790433-0870-472f-b830-7059d03bf0b2.png)
